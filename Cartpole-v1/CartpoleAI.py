@@ -2,7 +2,6 @@ import gym
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
-from tabulate import tabulate
 
 class Agent():
 
